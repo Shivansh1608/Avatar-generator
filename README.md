@@ -1,2 +1,3 @@
-# Avatar-generator
-Avatar generator
+# Diabetes predictor
+Diabetes predictor
+
